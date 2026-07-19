@@ -1,5 +1,4 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue)
-![License](https://img.shields.io/github/license/AJAXa239/yahaboom-Rosmaster-X3)
 ![Issues](https://img.shields.io/github/issues/AJAXa239/yahaboom-Rosmaster-X3)
 ![Last Commit](https://img.shields.io/github/last-commit/AJAXa239/yahaboom-Rosmaster-X3)
 ![Stars](https://img.shields.io/github/stars/AJAXa239/yahaboom-Rosmaster-X3)
