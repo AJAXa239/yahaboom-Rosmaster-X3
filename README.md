@@ -4,7 +4,7 @@ ROS 2 package for the Yahboom ROSMASTER X3 mobile robot, featuring autonomous na
  
 ## Overview
 # Docking
-[!image](Slam.gif)
+![image](Slam.gif)
  
 This project integrates:
 - **SLAM** — real-time mapping of the environment
