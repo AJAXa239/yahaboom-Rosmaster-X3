@@ -1,4 +1,8 @@
-![Label](https://img.shields.io/badge/LABEL-MESSAGE-COLOR)
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue)
+![License](https://img.shields.io/github/license/AJAXa239/yahaboom-Rosmaster-X3)
+![Issues](https://img.shields.io/github/issues/AJAXa239/yahaboom-Rosmaster-X3)
+![Last Commit](https://img.shields.io/github/last-commit/AJAXa239/yahaboom-Rosmaster-X3)
+![Stars](https://img.shields.io/github/stars/AJAXa239/yahaboom-Rosmaster-X3)
 # Yahboom ROSMASTER X3
  
 ROS 2 package for the Yahboom ROSMASTER X3 mobile robot, featuring autonomous navigation with SLAM, Nav2, and AprilTag-based docking.
