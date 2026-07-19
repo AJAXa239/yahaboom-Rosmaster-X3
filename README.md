@@ -3,6 +3,8 @@
 ROS 2 package for the Yahboom ROSMASTER X3 mobile robot, featuring autonomous navigation with SLAM, Nav2, and AprilTag-based docking.
  
 ## Overview
+# Docking
+[!image](Slam.gif)
  
 This project integrates:
 - **SLAM** — real-time mapping of the environment
